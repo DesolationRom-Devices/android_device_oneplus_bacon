@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "device_oppo_common",
+    "target_path": "device/oppo/common"
+  },
+  {
+    "repository": "android_kernel_oneplus_msm8974",
+    "target_path": "kernel/oneplus/msm8974",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "repository": "vendor_oneplus",
+    "target_path": "vendor/oneplus"
+  }
+
+]
